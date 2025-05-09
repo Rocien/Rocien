@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rocien Nkunga</h1>
-<h3 align="center">A passionate fullstack developer based in Canada Ontario</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocien&label=Profile%20views&color=0e75b6&style=flat" alt="rocien" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rocien" alt="rocien" /></a> </p>
 
-- 🔭 I’m currently completing [Mobile Application Design & Development at Algonquin College](https://www.algonquincollege.com/mediaanddesign/program/mobile-application-design-and-development/#overview)
+🎓 I recently graduated in Mobile Application Design & Development from Algonquin College.
 
-- 🌱 I’m currently learning **Swift & Android Studio**
+📱 I build responsive Web & Mobile apps using JavaScript, Node.js, React, React Native, Flutter, Swift, and Android Studio.
 
-- 👨‍💻 All of my projects are available at [rociennkunga.com](rociennkunga.com)
+🌐 View my portfolio at rociennkunga.com
 
-- 💬 Ask me about **Any languages, I believe that programming is a more problem solving, all the languages have the same patterns and can be learned once one is well understood.**
+💬 Ask me about **Any languages, I believe that programming is a more problem solving, all the languages have the same patterns and can be learned once one is well understood.**
 
 📫 How to reach me **contact@rociennkunga.com.com**
 
