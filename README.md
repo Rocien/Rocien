@@ -13,7 +13,7 @@
 
 💬 Ask me about **Any languages, I believe that programming is a more problem solving, all the languages have the same patterns and can be learned once one is well understood.**
 
-📫 How to reach me **contact@rociennkunga.com.com**
+📫 How to reach me **contact@rociennkunga.com**
 
 💼 Previously a senior network engineer, now focused on software development with 3+ years of coding experience
 
